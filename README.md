@@ -17,8 +17,8 @@
 
 ## links
 
--URL do site ao vivo: https://leonardoschuquel.github.io/MaquinadeSorteio/
--URL do GitHub: https://github.com/LeonardoSchuquel
+- URL do site ao vivo: https://leonardoschuquel.github.io/MaquinadeSorteio/
+- URL do GitHub: https://github.com/LeonardoSchuquel
 
 ## Autor
 -Leonardo Schuquel
