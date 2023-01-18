@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sorteio</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Página de sorteio</h1>
+    </header>
+
+    <section>
+
+        <div>
+            <h2>Pessoas concorrendo</h2>
+            <p>
+                <input type="text" name="name" id="name">
+                <input type="button" value="Registrar" onclick="registrar()">
+            </p>
+            <p>
+                <select name="voluntarios" id="voluntarios" size="10"></select>
+            </p>
+            <p>
+                <input class="stilo" type="button" value="Sordear" onclick="sordear()">
+            </p>
+        </div>
+        <div id="res">
+
+        </div>
+        <input class="stilo" type="button" value="Novo Sorteio" onclick="resetar()">
+
+    </section>
+    
+    <script src="./script.js"></script>
+</body>
+</html>
